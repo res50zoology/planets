@@ -10,3 +10,6 @@ print "a better VCS"
 #just a comment in merge 6 branch.
 
 #just a comment in merge 7 branch.
+
+
+#just a comment in merge 8 test.
