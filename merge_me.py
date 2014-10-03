@@ -13,3 +13,5 @@ print "a better VCS"
 
 
 #just a comment in merge 8 test.
+
+#just a comment in merge 9 test.
