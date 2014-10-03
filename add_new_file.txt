@@ -1,0 +1,2 @@
+i am a new file. i should get added .
+a different file will get modified , but should not get commited.
