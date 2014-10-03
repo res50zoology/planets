@@ -6,3 +6,5 @@ print "not important"
 print "a better VCS"
 
 #another comment
+
+#just a comment in merge 6 branch.
