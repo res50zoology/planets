@@ -9,4 +9,5 @@ I am making a change, but not add/commit/merge/pushing
 If that makes sense?????
 
 trying pull/merge conflict resolve
-restarting
+restarting part 2. 
+getting lost here
