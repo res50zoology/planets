@@ -7,13 +7,6 @@ print "a better VCS"
 
 #another comment
 
-#just a comment in merge 6 branch.
-
-#just a comment in merge 7 branch.
-
-
-#just a comment in merge 8 test.
-
-#just a comment in merge 9 test.
-
-#m12
+#with a clone a local and a remote copy are made on your machine.
+#Now the question is what does pull/fetch do.
+#We shall see
