@@ -10,3 +10,4 @@ print "a better VCS"
 #with a clone a local and a remote copy are made on your machine.
 #Now the question is what does pull/fetch do.
 #We shall see
+fred
